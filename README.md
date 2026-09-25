@@ -1,4 +1,4 @@
-# Fact Knowledge Layer Assignment
+# Fact Knowledge Layer
 A FastAPI application that extracts facts from PDFs, connects each fact to source evidence, and compares facts across documents.
 ## Setup and Run
 ```bash
